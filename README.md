@@ -1,5 +1,5 @@
-# Lumbha-ram
-Computer science 6th sem
+#Lumbha-ram
+#Computerscience6thsem
 
 
 l=[ ]
